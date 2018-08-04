@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.model;
 
 /**
  * Created by XTL on 8/14/2014.
